@@ -1,7 +1,7 @@
 # TUGAS PERTEMUAN 12 DAN 13
 
 ### NAMA ROUTE
-"kontaks" dan "mahasiswa"
+ "kontaks" dan "mahasiswa"
 
 ### NAMA ANGGOTA KELOMPOK:
 1. Alicya Khusnul Chotimah  (3012310051)
